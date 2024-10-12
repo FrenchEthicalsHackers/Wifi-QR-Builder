@@ -19,7 +19,8 @@ This Python script creates a QR code for your Wi-Fi credentials. Simply input yo
    ```
 2. Install the required library:
    ```bash
-   pip install qrcode[pil]
+   pip install qrcode
+   pip install Pillow
    ```
 3. Run the script:
    ```bash
