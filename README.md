@@ -14,8 +14,8 @@ This Python script creates a QR code for your Wi-Fi credentials. Simply input yo
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FrenchEthicalsHackers/Wifi-QR-Builder.git
-   cd Wifi-QR-Builder
+   git clone https://github.com/yourusername/wifi-qr-code-generator.git
+   cd wifi-qr-code-generator
    ```
 2. Install the required library:
    ```bash
@@ -24,9 +24,9 @@ This Python script creates a QR code for your Wi-Fi credentials. Simply input yo
    ```
 3. Run the script:
    ```bash
-   python Builder.py
+   python generate_wifi_qr.py
    ```
 4. Enter your Wi-Fi details when prompted. The QR code will be saved as `wifi_qr_code.png`.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
